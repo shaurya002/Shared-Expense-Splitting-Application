@@ -255,6 +255,10 @@ After settlement, every member's balance is ₹0.
 - `ExpenseSplit`
 - `Settlement`
 
+### ER Diagram
+
+![Database Design](src/main/resources/static/database-design.png)
+
 ### Relationships
 
 ```
