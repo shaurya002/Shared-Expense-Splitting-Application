@@ -332,9 +332,9 @@ D → B ₹300
 - [x] Create initial project structure
 
 ### Phase 2 — Domain Design
-- [ ] Design entities
-- [ ] Define enums
-- [ ] Define relationships
+- [x] Design entities
+- [x] Define enums
+- [x] Define relationships
 - [ ] Configure JPA mappings
 
 ### Phase 3 — Repository Layer
